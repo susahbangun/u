@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra dari',
             father: 'Bapak H. Bunali (alm)',
             mother: 'Ibu HJ. Busari (almh)',
-            ig: '@rev4rt',
+            ig: '@susxhbangun',
             image: './src/assets/images/cowo.png'
         },
         P: {
@@ -15,7 +15,7 @@ export const data = {
             child: 'Putri dari',
             father: 'Bapak M. Syafiuddin (alm)',
             mother: 'Ibu Romlah',
-            ig: '@rev4rt',
+            ig: '@_its.mhsyaff',
             image: './src/assets/images/cewe.png'
         },
 
