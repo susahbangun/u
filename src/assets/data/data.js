@@ -73,6 +73,14 @@ export const data = {
         {
             id: 5,
             image: './src/assets/images/5.jpg'
+        },
+                {
+            id: 6,
+            image: './src/assets/images/6.jpg'
+        },
+                {
+            id: 7,
+            image: './src/assets/images/7.jpg'
         }
     ],
 
