@@ -99,7 +99,7 @@ export const data = {
         },
     ],
 
-    audio: './src/assets/audio/x.mp4',
+    audio: ' ',
 
     api: 'https://script.google.com/macros/s/AKfycbwEc7FF6KwTdoLSxpbmddG24O7lK6hlSBH4m6nwdKRwGubEKeGazJm2fSkhFyYN_R9Gqw/exec',
 
