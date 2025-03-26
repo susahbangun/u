@@ -82,7 +82,7 @@ export const data = {
         {
             id: 2,
             name: 'Nurul Hikmah',
-            icon: './src/assets/images/bri.png',
+            icon: './src/assets/images/bca.png',
             rekening: '5905049469'
         },
     ],
