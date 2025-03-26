@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Mohammad Suhud',
+            child: 'Putra dari',
+            father: 'Bapak H. Bunali (alm)',
+            mother: 'Ibu HJ. Busari (almh)',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Nurul Hikmah',
+            child: 'Putri dari',
+            father: 'Bapak M. Syafiuddin (alm)',
+            mother: 'Ibu Romlah',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,31 +22,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'April',
+            date: '09',
+            day: 'Rabu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'April',
+            date: '09',
+            day: 'Rabu',
             hours: {
-                start: '11.00',
+                start: '08.30',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.'
     },
 
     link: {
         calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        map: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
     },
 
     galeri: [
@@ -75,15 +75,15 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Mohammad Suhud',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '0882547866'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Nurul Hikmah',
             icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            rekening: '5905049469'
         },
     ],
 
