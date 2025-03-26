@@ -15,7 +15,7 @@ export const welcome = () => {
         return `
             <img src="${coupleImage}" alt="couple animation">
             <figcaption>
-                ${brideLName.split(' ')[-1]} x ${bridePName.split(' ')[1]}
+                ${brideLName.split(' ')[1]} x ${bridePName.split(' ')[1]}
             </figcaption>`;
     };
 
