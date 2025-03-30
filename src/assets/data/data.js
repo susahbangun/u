@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra dari',
             father: 'H. Bunali (alm)',
             mother: 'HJ. Busari (almh)',
-            ig: '<i class="bx bxl-instagram"></i><a href="https://instagram.com/susxhbangun/">@susxhbangun</a>',
+            ig: '<a href="https://instagram.com/susxhbangun/"><i class="bx bxl-instagram"></i>@susxhbangun</a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
@@ -15,7 +15,7 @@ export const data = {
             child: 'Putri dari',
             father: 'M. Syafiuddin (alm)',
             mother: 'Romlah',
-            ig: '<i class="bx bxl-instagram"></i><a href="https://instagram.com/_its.mhsyaff/">@_its.mhsyaff</a>',
+            ig: '<a href="https://instagram.com/_its.mhsyaff/"><i class="bx bxl-instagram"></i>@_its.mhsyaff</a>',
             image: './src/assets/images/cewe.png'
         },
 
