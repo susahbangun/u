@@ -4,8 +4,8 @@ export const data = {
             id: 1,
             name: 'Mohammad Suhud',
             child: 'Putra dari',
-            father: 'Bapak H. Bunali (alm)',
-            mother: 'Ibu HJ. Busari (almh)',
+            father: 'H. Bunali (alm)',
+            mother: 'HJ. Busari (almh)',
             ig: '@susxhbangun',
             image: './src/assets/images/cowo.png'
         },
@@ -13,8 +13,8 @@ export const data = {
             id: 2,
             name: 'Nurul Hikmah',
             child: 'Putri dari',
-            father: 'Bapak M. Syafiuddin (alm)',
-            mother: 'Ibu Romlah',
+            father: 'M. Syafiuddin (alm)',
+            mother: 'Romlah',
             ig: '@_its.mhsyaff',
             image: './src/assets/images/cewe.png'
         },
