@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra dari',
             father: 'H. Bunali (alm)',
             mother: 'HJ. Busari (almh)',
-            ig: '@susxhbangun',
+            ig: '<a href="https://instagram.com/susxhbangun/">@susxhbangun</a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
@@ -15,7 +15,7 @@ export const data = {
             child: 'Putri dari',
             father: 'M. Syafiuddin (alm)',
             mother: 'Romlah',
-            ig: '@_its.mhsyaff',
+            ig: '<a href="https://instagram.com/_its.mhsyaff/">@_its.mhsyaff</a>',
             image: './src/assets/images/cewe.png'
         },
 
@@ -43,14 +43,12 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Belakang Pasar Bringkoning, Desa Telagah, Banyuates, Sampang.',
-        address2: 'Karang Duwak Dusun Duwak Assen, Desa Batioh, Banyuates, Sampang.'
+        address: ''
     },
 
     link: {
         calendar: 'https://calendar.app.google/9VV7UeKCnJPwbfJM6',
-        map: 'https://maps.app.goo.gl/uEH2kKeRwhPh7uDy9',
-        map2: 'https://maps.app.goo.gl/edd3WxfqkGLLP4Ck6',
+        map: ''
     },
 
     galeri: [
