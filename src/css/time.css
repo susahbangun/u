@@ -48,3 +48,6 @@
     right: 8rem;
     top: 22rem;
 }
+
+iframe {
+    max-width: 900px;
