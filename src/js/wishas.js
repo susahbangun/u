@@ -132,7 +132,7 @@ export const wishas = () => {
 
     // click prev & next
     let currentPage = 1;
-    let itemsPerPage = 4;
+    let itemsPerPage = 10;
     let startIndex = 0;
     let endIndex = itemsPerPage;
 
